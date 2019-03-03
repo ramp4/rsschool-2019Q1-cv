@@ -6,14 +6,15 @@ ___
 Phone nubmer: +375259075679, e-mail: rampatv13@gmail.com.
 ___
 ### Summary
-  Start a career as a Junior Developer and grow to the next step. Two years of software development experience as a web developer Javascript/HTML/CSS/Java. I have experience of working in graphic editors. I have good analytical skills.  I'm a fast learner.I am good team worker.
-  ___
+  Start a career as a Junior Developer and grow to the next step. Two years of software development experience as a web developer Javascript/HTML/CSS/Java. I have experience of working in graphic editors. I have good analytical skills. I'm a fast learner. I am good team worker.
+___
 ### Skills
-C++, HTML, CSS, JS.
+C++, HTML, CSS, JS, Diffirent graphic editors.
 ___
 
 ### Code Examples
-
+Link to some of my work:
+[https://github.com/ramp4](https://github.com/ramp4)
 ___
 
 ### Experience:
