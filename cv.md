@@ -1,4 +1,4 @@
-# h1 Junior Developer Summary
+# Junior Developer Summary
 
 1. First Name Last Name: Artem Balunda.
 2. Phone number: +375259075679, e-mail: rampatv13@gmail.com.
