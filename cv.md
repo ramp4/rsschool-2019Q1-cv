@@ -6,16 +6,16 @@ ___
 Phone nubmer: +375259075679, e-mail: rampatv13@gmail.com.
 ___
 ### Summary
-(цель, пожелания, раскрыть, что важно, что хочется и почему. 
-Некий вариант самопрезентации. Когда опыта минимум, джун продает свой потенциал, 
-свое желание и способность быстро учиться. Не занимать позицию, что он придет, 
-и все кинутся его учить. Но обратное – у джуна время все брать, отовсюду, всегда и т.д.).
-___
+  Start a career as a Junior Developer and grow to the next step. Two years of software development experience as a web developer Javascript/HTML/CSS/Java. I have experience of working in graphic editors. I have good analytical skills.  I'm a fast learner.I am good team worker.
+  ___
 ### Skills
 C++, HTML, CSS, JS.
 ___
+
 ### Code Examples
+
 ___
+
 ### Experience:
 * __Additional education__
   * January 2016 - present IT-Academy
@@ -23,19 +23,20 @@ ___
     * Automatic QC Training Course.
 * __Work experience__
     * April 2019 - present
-      * Private entrepreneur (direction - payment terminals).
+      * __Private entrepreneur (direction - payment terminals).__
     * Oktober 2017 - March 2018
-    * PPPPbank Specialist of Lending Division.
-    * Executable functions:
+      * __PPPPbank Specialist of Lending Division.__
+      * __Executable functions:__
       * data analysis, credit rating;
       * decision of loans;
       * testing of internal programs.
-
-
 ___
 
 ### Education
-Sophomore of BSUIR.
+  Belarusian State University of Informatics and Radioelectronics
+  Faculty of Computer Design
+  Electronic Security Systems
 ___
+
 ### English Skills
 Upper-Intermediate B2.
