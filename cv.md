@@ -34,9 +34,9 @@ ___
 ___
 
 ### Education
-  Belarusian State University of Informatics and Radioelectronics
-  Faculty of Computer Design
-  Electronic Security Systems
+* University: Belarusian State University of Informatics and Radioelectronics
+* Faculty: Computer Design
+* Speciality: Electronic Security Systems
 ___
 
 ### English Skills
