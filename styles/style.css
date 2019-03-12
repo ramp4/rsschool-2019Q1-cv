@@ -1,0 +1,254 @@
+@font-face {
+    font-family: 'Lato-Regular';
+    src: url('../assets/Lato-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MavenProRegular';
+    src: url('../assets/MavenPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato-Bold';
+    src: url('../assets/Lato-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MyriadPro-Regular';
+    src: url('../assets/MyriadPro-Regular.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lato-Black';
+    src: url('../assets/Lato-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+html {
+    border: #336699 4px solid;
+    margin: 0 auto;
+    width: 1020px;
+}
+body {
+    padding: 0px;
+    margin: 0px;
+    background: whitesmoke;
+    
+    z-index: 0;
+}
+
+header {
+    
+    width: 1020px;
+    padding: 0px;
+    position: fixed;
+    
+}
+h1 {
+    position: absolute;
+    text-align: center;
+    z-index: 1;
+    font-family: Lato-Bold;
+    width: 1020px;
+    margin: 0;
+    color: #336699;
+}
+
+header .triangle:nth-child(1) {    
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    width: 0px;
+    height: 0px;
+    border-right: 512px solid #336699;
+    border-bottom: 50px solid transparent;
+}
+header .triangle:nth-child(2) {    
+    position: absolute;
+    top: 50px;
+    left: 512px;
+    width: 0px;
+    height: 0px;
+    border-left: 512px solid #336699;
+    border-bottom: 50px solid transparent;
+}
+header .triangle:nth-child(3) {    
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 0px;
+    height: 0px;
+    border-left: 1020px solid #99CCFF;
+    border-bottom: 100px solid transparent;
+}
+header .triangle:nth-child(4) {    
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 0px;
+    height: 0px;
+    border-right: 1020px solid #99CCFF;
+    border-bottom: 100px solid transparent;
+}
+.menu {
+    position: relative;
+    top: 50px;
+}
+.menu .menu-item{
+    position: absolute;
+    font-family: Lato-Black;
+}
+.menu a {
+    color: #336699;
+    text-decoration: none;
+}
+h2 {
+    margin: 0;
+}
+.skills a {
+    color: #99CCFF;
+}
+.about {
+    text-align: center;
+    width: 33%;
+    margin-left: 0%;
+    
+}
+.skills {
+    text-align: center;
+    width: 34%;
+    margin-left: 33%;
+    top: 10px;  
+}
+
+.experience {
+    text-align: center; 
+    width: 33%;
+    margin-left:67%;
+}
+.about-section {
+    top: 150px;
+    position: relative;
+    width: 100%;
+    background-color: whitesmoke;
+    height: 400px;
+}
+.photo {
+    position: absolute;
+    width: 175px;
+    height: 200px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(../assets/photo.jpg);
+    margin-left: 5%;
+    border: 5px solid #336699;
+}
+.name {
+    position: absolute;
+    font-family: Lato-Bold;
+    color: #336699;
+    margin-left: 30%;
+}
+.summary {
+    position: absolute;
+    width: 700px;
+    margin-left: 30%;
+    font-family: Lato-Regular;
+    top: 40px;
+    
+}
+.email {
+    position: absolute;
+    margin-left: 30%;
+    margin-top: 150px;
+    text-decoration: none;
+    color: #33CCCC;
+    font-family: Lato-Bold;
+}
+.email::before {
+    position: relative;
+    content: url(../assets/mail@1X.png);
+    height: 8px;
+    width: 13px;
+    left: -5px;
+}
+.phone {
+    position: absolute;
+    margin-left: 30%;
+    margin-top: 175px;
+    text-decoration: none;
+    color: #33CCCC;
+    font-family: Lato-Bold;
+    
+}
+.phone::before {
+    position: relative;
+    content: url(../assets/phone@1X.png);
+    height: 11px;
+    width: 11px;
+    left: -5px;
+}
+.skills-section {
+    background-color: #99CCFF; 
+    position: relative;
+    height: 315px;
+}
+.skills-section h3 {
+    text-align: center;
+    color: #336699;
+    font-family: Lato-Bold;
+    
+}
+.skills-section h4 {
+    text-align: center;
+    color: whitesmoke;  
+    font-family: Lato-Regular;
+}
+.skills-section h4 span {
+    color: #336699;
+}
+.experience-section {
+    position: relative;
+    height: 350px;
+    background: whitesmoke;
+}
+.experience-section h3 {
+    color: #336699;
+    font-family: Lato-Bold;
+    text-align: center;
+}
+.experience-section h4 {
+    text-align: center;
+    color: black;
+    font-family: Lato-Regular;
+}
+.experience-section li {
+    
+    color: black;
+    font-family: Lato-Regular;
+}
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
