@@ -32,7 +32,9 @@
     font-style: normal;
 }
 html {
-    border: #336699 4px solid;
+    border-left:  #336699 4px solid;
+    border-right: #336699 4px solid;
+    border-bottom: #336699 4px solid;
     margin: 0 auto;
     width: 1020px;
 }
@@ -49,7 +51,7 @@ header {
     width: 1020px;
     padding: 0px;
     position: fixed;
-   
+
     
 }
 .triangles-background {
