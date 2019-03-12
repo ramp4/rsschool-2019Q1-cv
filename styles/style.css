@@ -45,11 +45,15 @@ body {
 }
 
 header {
-    
+    z-index: 5;
     width: 1020px;
     padding: 0px;
     position: fixed;
+   
     
+}
+.triangles-background {
+    position: fixed;
 }
 h1 {
     position: absolute;
